@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.luminartstudio_kripton"
        name="[COLOR orange][B]LUMINART KRIPTON[/B][/COLOR]"
-       version="1.1.22"
+       version="0.0.4"
        provider-name="[COLOR white][B]JOHN DOE[/B][/COLOR]">  <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -39,7 +39,7 @@ ACESSO DE CONTRIBUINTE EXCLUSIVO DO VALFREDO - 25-01-22</news>
 </addon>
 <addon id="plugin.video.luminartstudio_matrix" 
        name="[COLOR orange][B]LUMINART MATRIX[/B][/COLOR]" 
-	   version="1.1.22" 
+	   version="0.0.4" 
 	   provider-name="[COLOR white][B]JOHN DOE[/B][/COLOR]"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>

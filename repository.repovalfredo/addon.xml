@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repovalfredo" name="REPOVALFREDO" version="1.0.1" provider-name="luminart506">
+<addon id="repository.repovalfredo" name="REPOVALFREDO" version="0.0.4" provider-name="luminart506">
     <extension point="xbmc.addon.repository" name="repository.repovalfredo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/luminart506/repovalfredo/master/zips/addons.xml</info>
